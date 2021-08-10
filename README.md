@@ -2,4 +2,5 @@
 
 An app that takes an hex value and displays its color 
 
-## To run download folder and open index.html in browser
+## Setup
+To run download folder and open index.html in browser
